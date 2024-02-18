@@ -1,0 +1,56 @@
+{
+  "test": {
+    "appId": "ca-app-pub-1111111111111111~2222222222",
+    "banner": "ca-app-pub-3940256099942544/6300978111",
+    "appOpen": "ca-app-pub-3940256099942544/3419835294",
+    "interstitial": "ca-app-pub-3940256099942544/1033173712"
+  },
+  "husary": {
+    "appId": "ca-app-pub-3472717096616049~3871571093",
+    "banner": "ca-app-pub-3472717096616049/9945206613",
+    "appOpen": "ca-app-pub-3472717096616049/9960985650",
+    "interstitial": "ca-app-pub-3472717096616049/7929417366"
+  },
+  "dosary": {
+    "appId": "ca-app-pub-3472717096616049~7419933866",
+    "banner": "ca-app-pub-3472717096616049/5264543819",
+    "appOpen": "ca-app-pub-3472717096616049/3708182891",
+    "interstitial": "ca-app-pub-3472717096616049/5955605114"
+  },
+  "4kWallpaper": {
+    "appId": "ca-app-pub-5184858025404588~9038554053",
+    "banner": "ca-app-pub-5184858025404588/6412390719",
+    "appOpen": "ca-app-pub-3472717096616049/9222619059",
+    "interstitial": "ca-app-pub-5184858025404588/9852942272"
+  },
+  "sudias": {
+    "appId": "ca-app-pub-3472717096616049~4723749654",
+    "appOpen": "ca-app-pub-3472717096616049/5452509408",
+    "banner": "ca-app-pub-3472717096616049/7491213919",
+    "interstitial": "ca-app-pub-3472717096616049/4459277340"
+  },
+  "alafasy": {
+    "appId": "ca-app-pub-5184858025404588~6942953965",
+    "appOpen": "ca-app-pub-3472717096616049/3001605886",
+    "banner": "ca-app-pub-5184858025404588/4502227456",
+    "interstitial": "ca-app-pub-5184858025404588/9562982443"
+  },
+  "shuraimy": {
+    "appId": "ca-app-pub-3472717096616049~2785682146",
+    "banner": "ca-app-pub-3472717096616049/3534042630",
+    "appOpen": "ca-app-pub-3472717096616049/2426890817",
+    "interstitial": "ca-app-pub-3472717096616049/9449532539"
+  },
+  "minshawy": {
+    "appId": "ca-app-pub-5184858025404588~6105268951",
+    "appOpen": "ca-app-pub-3472717096616049/8796896034",
+    "banner": "ca-app-pub-5184858025404588/3479105614",
+    "interstitial": "ca-app-pub-5184858025404588/5623737434"
+  },
+  "new_walls": {
+    "appId": "ca-app-pub-3472717096616049~4001279636",
+    "appOpen": "ca-app-pub-3472717096616049/7095977141",
+    "banner": "ca-app-pub-3472717096616049/9098527798",
+    "interstitial": "ca-app-pub-3472717096616049/4689305650"
+  }
+}
